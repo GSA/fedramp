@@ -17,7 +17,7 @@ The GSA Secure Cloud Portfolio is seeking feedback regarding industry experience
    * The intent behind not limiting the response to this RFI is to ensure we are not limiting the ability of vendors to provide information that would be useful by putting an arbitrary limit on responses. We hope vendors use this to provide examples of contract language that you’ve encountered from agencies that highlights your feedback.
    * We hope the amount of original content that might be created in response to this RFI is limited, to keep the burden on responding low, and ensure our ability to consume and digest the information more readily. 
    
-4. We encourage respondents to post comments as an issue in [THIS GITHUB LINK]. Alternatively, you can submit responses to info@fedramp.gov by 5pm on [INSERT DATE] with the subject line Response to Acquisitions RFI Provided by [COMPANY NAME], however please note all submitted comments will be publicly posted. Also, please note you do not need to submit responses via both channels, and using github is the preferred method as it will will greatly reduce our processing burden.
+4. We encourage respondents to post comments as an issue in [THIS GITHUB LINK]. Alternatively, you can submit responses to [info@fedramp.gov](mailto:info@fedramp.gov) with the subject line: **"Response to Acquisitions RFI Provided by [COMPANY NAME]"**, however please note all submitted comments will be publicly posted. Also, please note you do not need to submit responses via both channels, and using github is the preferred method as it will will greatly reduce our processing burden.
 
 ### Questions
 #### General Cloud Language
