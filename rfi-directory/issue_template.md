@@ -1,6 +1,6 @@
-# Question/Comment on FedRamp Dashboard RFI
+# Question/Comment on FedRamp RFI Directory
 
-## Name and affiliation
+## Name and Affiliation
 {please provide information about your job/role as well as your organization} 
 
 ## Cloud Services
