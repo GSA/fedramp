@@ -1,7 +1,7 @@
 ### Background
 In our efforts to help agencies continue to adopt secure cloud technologies, the GSA Secure Cloud Portfolio has been working to identify appropriate ways to create contract language agencies can use in the acquisition process for cloud services and in meeting FedRAMP requirements.
 
-Federal policy has pushed forward a “Cloud First” mandate for agencies to default to purchasing cloud products and services for all new IT acquisitions. Additionally, agencies are required to ensure cloud providers meet the FedRAMP requirements when procuring and subsequently authorizing cloud services [^1]. We would like to help agencies acquire cloud services that can meet the FedRAMP requirements in a way that it is not prohibitive to competition and innovation.
+Federal policy has pushed forward a “Cloud First” mandate for agencies to default to purchasing cloud products and services for all new IT acquisitions. Additionally, agencies are required to ensure cloud providers meet the FedRAMP requirements when procuring and subsequently authorizing cloud services[^1]. We would like to help agencies acquire cloud services that can meet the FedRAMP requirements in a way that it is not prohibitive to competition and innovation.
 
 In partnership with OMB, we developed FedRAMP [Acquisition FAQs](https://www.fedramp.gov/fedramp-acquisition-faqs/) based on common questions we' received from vendors and agencies about how FedRAMP language should and shouldn’t be incorporated into solicitations. These FAQs are largely based on contracting best practices and standard Federal Acquisition Regulation rules around fair and open competition principles. Our hope is a similar partnership with industry would help all of us better scope and scale the adoption of cloud technologies and associated services with even more detailed guidance.
 
@@ -61,6 +61,7 @@ There are many security requirements that are tangentially related to FedRAMP, n
 The information gathered in this RFI will be used to identify the examples of contract language that agencies should and should not use to incorporate FedRAMP security standards in their solicitations. These examples will be used to generate guidance and education to agencies.
 
 ### Reference - Acquisition FAQs
+Access FAQs [here](https://www.fedramp.gov/fedramp-acquisition-faqs/).
 
 
 [^1]:[FedRAMP Policy Memo Section](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/fedrampmemo.pdf) 4d, i & iii: _“Each Executive department or agency shall: i. Use FedRAMP when conducting risk assessments, security authorizations, and granting ATOs for all Executive department or agency use of cloud services,” iii. “Ensure applicable contracts appropriately require CSPs to comply with FedRAMP security authorization requirements”_
