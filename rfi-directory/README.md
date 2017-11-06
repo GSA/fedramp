@@ -1,4 +1,4 @@
-## Information for Interested Vendors 
+## Information for Interested Agencies 
 
 ### We’re glad you’re interested in our project!
 
@@ -8,7 +8,7 @@ Federal policy has pushed forward a “Cloud First” mandate for agencies to de
 
 The GSA Secure Cloud Portfolio is seeking feedback regarding industry experience with how agency attempts to enforce requirements via contract language. We hope to receive examples of both positive and problematic clauses so that we may develop better guidance that leads to better outcomes for both government and industry. We’re also looking for new and creative examples of industry suggested contract language that could be leveraged as well.
 
-### So, what does this mean to the interested vendor community?
+### So, what does this mean to the agency community?
 
 We intend this public GitHub repository to be the source of collaboraton among agencies and the FedRAMP PMO as we move forward in our planning and implementation of this new vision.  We will do our best to keep this repo updated as decisions are made or if we need to pivot in our plans as we learn.  We also want to hear from the agency community if you have any comments or questions - we will update this with specific instructions on how best to do that in the coming days.  We’ll do our best to respond to your questions as they arrive, but we also can’t guarantee we can answer every question.  
 
