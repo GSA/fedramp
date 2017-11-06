@@ -4,10 +4,10 @@
 {please provide information about your job/role as well as your organization} 
 
 ## Cloud Services
-{please provide any questions or comments about general cloud services that you are requesting information for, if applicable}
+{please provide any questions or comments about general cloud services}
 
-## RFI Security
-{please provide any questions or comments about the security levels of cloud services that your are requesting information for}
+## Cloud Security 
+{please provide any questions or comments about cloud security and guidance for ensuring appropriate security levels are achieved}
 
 ## FedRAMP PMO
 {please provide any questions or comments about FedRAMP and how the PMO can support your acquisition efforts}  
