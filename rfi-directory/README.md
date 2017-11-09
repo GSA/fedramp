@@ -30,4 +30,4 @@ The information gathered here will be used to identify examples of that agencies
 ### Thanks again!
 We hope you’ll join us in this. If you’re interested or have questions, please send an e-mail to [info@fedramp.gov] (mailto:info@fedramp.gov). 
 
-[^1}:  [FedRAMP Policy Memo](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/fedrampmemo.pdf) Section 4d, i & iii: _“Each Executive department or agency shall: i. Use FedRAMP when conducting risk assessments, security authorizations, and granting ATOs for all Executive department or agency use of cloud services,” iii. “Ensure applicable contracts appropriately require CSPs to comply with FedRAMP security authorization requirements”_
+[^1]:  [FedRAMP Policy Memo](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/fedrampmemo.pdf) Section 4d, i & iii: _“Each Executive department or agency shall: i. Use FedRAMP when conducting risk assessments, security authorizations, and granting ATOs for all Executive department or agency use of cloud services,” iii. “Ensure applicable contracts appropriately require CSPs to comply with FedRAMP security authorization requirements”_
