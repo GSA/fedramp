@@ -14,6 +14,8 @@ The most effective way to partiipate is to [open an issue](https://github.com/GS
 
 3. We encourage respondents to post comments as an issue, using the [issue template](https://github.com/GSA/fedramp/blob/master/ISSUE_TEMPLATE.md) in the [RFI Directory](https://github.com/GSA/fedramp/tree/master/rfi-directory). Alternatively, you can submit responses to [info@fedramp.gov](mailto:info@fedramp.gov) with the subject line: **"Response to Acquisitions RFI Provided by [COMPANY NAME]"**, however please note all submitted comments will be publicly posted. Also, please note you do not need to submit responses via both channels, and using github is the preferred method as it will will greatly reduce our processing burden.
 
+4. Using the [issue template](https://github.com/GSA/fedramp/blob/master/ISSUE_TEMPLATE.md), all comments should be posted **no later than Friday, December 15th.** 
+
 ### So, what does this mean to the agency community?
 In our efforts to help agencies continue to adopt secure cloud technologies, the GSA Secure Cloud Portfolio has been working to identify barriers for agencies adopting cloud services and in meeting FedRAMP requirements.
 
