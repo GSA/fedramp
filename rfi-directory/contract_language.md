@@ -19,6 +19,8 @@ The GSA Secure Cloud Portfolio is seeking feedback regarding industry experience
    
 4. We encourage respondents to post comments as an issue, using the [issue template](https://github.com/GSA/fedramp/blob/master/ISSUE_TEMPLATE.md) in the [RFI Directory](https://github.com/GSA/fedramp/tree/master/rfi-directory). Alternatively, you can submit responses to [info@fedramp.gov](mailto:info@fedramp.gov) with the subject line: **"Response to Acquisitions RFI Provided by [COMPANY NAME]"**, however please note all submitted comments will be publicly posted. Also, please note you do not need to submit responses via both channels, and using github is the preferred method as it will will greatly reduce our processing burden.
 
+5. Using the [issue template](https://github.com/GSA/fedramp/blob/master/ISSUE_TEMPLATE.md), all comments should be posted **no later than Friday, December 15th.** 
+
 ### Questions
 #### General Cloud Language
 We hear a lot from industry that agencies do not provide clear requirements for cloud services or ascribe legacy requirements to this new paradigm. These discrepancies seem particularly pronounced around things like deployment models, portability, interoperability, data ownership, SLAs, migration requirements, integration requirements with agency systems, etc. We’re looking for examples of general cloud requirements that fit the following questions: 
